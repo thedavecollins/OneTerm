@@ -8,10 +8,15 @@ Distraction free terminal window
 configuration
 =============
 
-.onetermrc
+  ::
 
-command=vim
-background=#ff0033
+    cat ~/.onetermrc
+
+    [style]
+    font = Monospace
+    fontsize = 13
+    backgroundcolor=#AAA
+
 
 
 
